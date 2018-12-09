@@ -1,3 +1,48 @@
 page-home {
+    ion-content{
+        background-color: darkgrey;
+    }
+    
 
+    img {
+        width: 100%;
+       
+    }
+
+    .post{
+       border-radius: 5%;
+       padding-top: 35px;
+       padding-bottom: 35px;
+    }
+
+    .post-title {
+        color: azure;
+        text-align: center;
+        font-weight: bold;
+        background-color: black;
+    }
+
+    
+    .footer-player {
+        background-color: black;
+        
+    }
+
+    .play-button {
+        width: 3em;
+        height: auto;
+        text-align: center;
+        padding: 0;
+        margin: 0;
+    }
+
+    .stop-button {
+        width: 3em;
+        height: auto;
+        text-align: center;
+    }
+
+    .post-content{
+        background: linear-gradient(#ca1954, #61cfeb);
+    }
 }
